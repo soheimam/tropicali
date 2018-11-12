@@ -44,6 +44,10 @@ header{
     padding: 0 var(--main-spacing) 0 var(--main-spacing);
 
 }
+
+header img{
+    width:160px;
+}
 section.grid, section.centered{
     margin: var(--main-spacing)
 }
@@ -98,6 +102,6 @@ section.centered{
         padding: 8px 15px 8px 15px;
     }
     header img{
-        width:80px;
+        width:100px;
     }
 }
