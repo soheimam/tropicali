@@ -97,4 +97,7 @@ section.centered{
     .button{
         padding: 8px 15px 8px 15px;
     }
+    header img{
+        width:80px;
+    }
 }
